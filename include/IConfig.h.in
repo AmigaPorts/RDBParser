@@ -1,0 +1,6 @@
+#ifndef RDBTEST_CONFIG_H
+#define RDBTEST_CONFIG_H
+
+static const char __attribute((used)) amiga_ver[] = "$VER: ${PROJECT_NAME} ${VER_AMIGA} (${VER_DAY}.${VER_MONTH}.${VER_YEAR}) ${PROJECT_NAME} v${VER_FULL} by ${CREDITS}\0";
+
+#endif //RDBTEST_CONFIG_H

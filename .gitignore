@@ -1,6 +1,13 @@
+# Binary data
+bin/RDBTest
+bin/RDBParser
+bin/test*
+
+# CMake junk
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
+cmake-*/
 CMakeScripts
 Testing
 Makefile
@@ -9,3 +16,4 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+.idea/
